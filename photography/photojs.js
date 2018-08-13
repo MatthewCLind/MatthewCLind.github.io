@@ -5,7 +5,7 @@
  
  function firstLoad()
  {
-	document.getElementById("photo").src = "photos/0.JPG";
+	document.getElementById("photo").src = "photos/0.jpg";
 	intervelometer = setInterval(advancePhoto, delay);
  }
  
@@ -23,5 +23,5 @@
 	{
 		currentPhoto = 0;
 	}
-	document.getElementById("photo").src = "photos/" + currentPhoto + ".JPG";
+	document.getElementById("photo").src = "photos/" + currentPhoto + ".jpg";
  }
