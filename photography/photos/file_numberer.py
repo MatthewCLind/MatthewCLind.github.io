@@ -7,7 +7,7 @@ print files
 count = 0
 for f in files:
     if f != 'file_numberer.py':
-        ext = f.split('.')[-1]
+        ext = f.split('.')[-1].upper()
         print f
         temp_name = str(rand(100000, 10000000))
         os.rename(f, temp_name)
