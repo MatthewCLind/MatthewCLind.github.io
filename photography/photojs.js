@@ -1,5 +1,5 @@
  var currentPhoto = 0;
- var numPhotos = 15;
+ var numPhotos = 32;
  var intervelometer;
  var delay = 30000;
  
