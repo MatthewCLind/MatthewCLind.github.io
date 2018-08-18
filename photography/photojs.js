@@ -1,7 +1,7 @@
  var currentPhoto = 0;
- var numPhotos = 13;
+ var numPhotos = 15;
  var intervelometer;
- var delay = 10000;
+ var delay = 30000;
  
  function firstLoad()
  {
