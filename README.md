@@ -1,3 +1,2 @@
-# MatthewCLind.github.io
-My personal site!
+# Matthew C Lind's Resume!
 https://matthewclind.github.io/
