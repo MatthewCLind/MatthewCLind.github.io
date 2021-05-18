@@ -1,2 +1,2 @@
-# Matthew C Lind's Resume!
+# Matthew C. Lind's Resume!
 https://matthewclind.github.io/
